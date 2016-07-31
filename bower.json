@@ -1,0 +1,27 @@
+{
+  "name": "angular-material-app-boilerplate",
+  "description": "My personnal boilerplate to freshly start a new application based on Angular Material.",
+  "main": "index.js",
+  "authors": [
+    "Gregoire Lagoutte"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "material",
+    "boilerplate"
+  ],
+  "homepage": "https://github.com/GregLa/angular-material-app-boilerplate",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.9",
+    "angular-ui-router": "^0.3.1"
+  }
+}
