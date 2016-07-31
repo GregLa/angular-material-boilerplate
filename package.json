@@ -1,15 +1,15 @@
 {
-  "name": "angular-material-app-boilerplate",
+  "name": "angular-material-boilerplate",
   "version": "1.0.0",
   "description": "My personnal boilerplate to freshly start a new application based on Angular Material.",
-  "main": "index.js",
+  "main": "src/app/app.module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "bower install"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://GregLa@github.com/GregLa/angular-material-app-boilerplate.git"
+    "url": "git+https://GregLa@github.com/GregLa/angular-material-boilerplate.git"
   },
   "keywords": [
     "angular",
@@ -19,9 +19,9 @@
   "author": "Gregoire Lagoutte",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GregLa/angular-material-app-boilerplate/issues"
+    "url": "https://github.com/GregLa/angular-material-boilerplate/issues"
   },
-  "homepage": "https://github.com/GregLa/angular-material-app-boilerplate#readme",
+  "homepage": "https://github.com/GregLa/angular-material-boilerplate#readme",
   "dependencies": {
     "browser-sync": "^2.13.0",
     "del": "^2.2.1",

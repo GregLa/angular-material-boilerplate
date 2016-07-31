@@ -1,7 +1,7 @@
 {
-  "name": "angular-material-app-boilerplate",
+  "name": "angular-material-boilerplate",
   "description": "My personnal boilerplate to freshly start a new application based on Angular Material.",
-  "main": "index.js",
+  "main": "src/app/app.module.js",
   "authors": [
     "Gregoire Lagoutte"
   ],
@@ -11,7 +11,7 @@
     "material",
     "boilerplate"
   ],
-  "homepage": "https://github.com/GregLa/angular-material-app-boilerplate",
+  "homepage": "https://github.com/GregLa/angular-material-boilerplate",
   "private": true,
   "ignore": [
     "**/.*",

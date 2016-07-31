@@ -1,4 +1,4 @@
-# angular-material-app-boilerplate
+# angular-material-boilerplate
 My personal boilerplate to freshly start a new application based on Angular Material.
 
 Best practices and structure based on [John Papa's styleguide](https://github.com/johnpapa/angular-styleguide/tree/master/a1)
